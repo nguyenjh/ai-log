@@ -1,1 +1,1 @@
-# ai-log
+# cse110-ai-log
